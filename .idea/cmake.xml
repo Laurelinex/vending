@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCMAKE_CXX_FLAGS=&quot;-std=c++17 -stdlib=libc++ -Wall -Wshadow -Wnon-virtual-dtor -Wcast-align -Woverloaded-virtual -Wno-register -fstandalone-debug -ggdb -O0&quot;" ENABLED="true" />
+    </configurations>
+  </component>
+</project>
